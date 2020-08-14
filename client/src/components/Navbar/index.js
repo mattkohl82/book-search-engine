@@ -6,7 +6,6 @@ import LoginForm from '../LoginForm';
 import SignUpForm from '../SignupForm';
 
 const AppNavbar = () => {
-  // set modal display state
   const [showModal, setShowModal] = useState(false);
 
   return (
